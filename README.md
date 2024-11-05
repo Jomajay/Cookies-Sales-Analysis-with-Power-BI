@@ -3,6 +3,8 @@
 **Project Name:** Cookies Sales Analysis Dashboard
 
 ---
+The dashboard! 
+![Cookies Sales Analysis Dashboard Interface](https://drive.google.com/uc?export=view&id=1zl_hbpeqs2ESMp-33h11eqzsGlFnO5YC)
 
 ### **Project Description**
 
