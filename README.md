@@ -1,6 +1,6 @@
 # Cookies-Sales-Analysis-with-Power-BI
 
-**Project Name:** Cookies Sales Analysis Dashboard
+### **Project Name:** Cookies Sales Analysis 
 
 ---
 The dashboard! 
